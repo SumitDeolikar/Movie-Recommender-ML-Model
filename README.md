@@ -2,7 +2,9 @@
 
 # Usage
 1.Clone my repository.
+
 2.Open CMD in working directory.
+
 3.Run following command-
 
   pip install -r requirements.txt
